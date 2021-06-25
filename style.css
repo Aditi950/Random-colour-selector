@@ -1,0 +1,30 @@
+.container{
+    border: 6px black solid;
+    border-radius: 45px;
+    background-color: #FF94CC;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+    margin-top: 150px;
+}
+button{
+    margin: auto;
+    display: block;
+    border-radius: 15px;
+    background-color: #A239EA;
+    color: #CDF0EA;
+    border: solid black 1px;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+label{
+    margin-left: 60px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: #F0D9E7;
+}
